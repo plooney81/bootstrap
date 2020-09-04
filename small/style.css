@@ -9,8 +9,3 @@ body {
 button {
     margin-bottom: 10px;
 }
-
-.container-md {
-    border: 2px solid rgb(160, 160, 160);
-    border-radius: 15px;
-}
