@@ -1,0 +1,43 @@
+:root {
+    --red: red;
+    --brown: brown;
+    --tan: beige;
+    --black: black;
+    --blue: blue;
+    --yellow: yellow;
+    --white: white;
+}
+.row {
+    height: 8vw
+}
+.container {
+    border: 1px solid blue;
+}
+
+.white {
+    background-color: var(--white);
+}
+
+.red {
+    background-color: var(--red);
+}
+
+.brown {
+    background-color: var(--brown);
+}
+
+.tan {
+    background-color: var(--tan);
+}
+
+.black {
+    background-color: var(--black);
+}
+
+.blue {
+    background-color: var(--blue);
+}
+
+.yellow {
+    background-color: var(--yellow);
+}
