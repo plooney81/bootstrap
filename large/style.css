@@ -1,3 +1,7 @@
+body {
+    background-color: darkgrey;
+}
+
 :root {
     --red: red;
     --brown: brown;
@@ -5,7 +9,7 @@
     --black: black;
     --blue: blue;
     --yellow: yellow;
-    --white: white;
+    --white: darkgrey;
 }
 .row {
     height: 6vw;
